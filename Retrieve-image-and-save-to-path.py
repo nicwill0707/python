@@ -1,4 +1,5 @@
-
+#retrieval of an image from website URL and store in user defined pathway
+#(folder) on local machine
 
 import urllib.request
 import csv
